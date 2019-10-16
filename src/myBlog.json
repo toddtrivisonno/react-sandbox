@@ -1,0 +1,14 @@
+{
+   "blogPosts": [
+      {
+         "title": "Week 1",
+         "question": ["How was this week?", "Are you tired?"],
+         "response": "It's hard."
+      },
+      {
+         "title": "Week 2",
+         "question": ["How was this week?"],
+         "response": "It's hard."
+      }
+   ]
+}
